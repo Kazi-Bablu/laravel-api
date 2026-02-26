@@ -52,8 +52,3 @@ GET /api/customers/{id}
 PUT /api/customers/{id}
 
 DELETE /api/customers/{id}
-
-Test User:
-
-email: test@test.com
-password: password
