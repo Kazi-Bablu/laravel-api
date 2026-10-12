@@ -21,7 +21,7 @@ Tech Stack:
 
 Installation:
 
-git clone [https://github.com/yourname/laravel-api.git](https://github.com/Kazi-Bablu/laravel-api)
+git clone [https://github.com/yourname/laravel-api.git](https://github.com/Kazi-Bablu/laravel-api]
 
 cd laravel-fintech-api
 
